@@ -11,3 +11,69 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+header{
+  position: relative;
+  font-size: 30px;
+  
+}
+.carousel{
+  background-image: url(./../public/glassesImage/background.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 650px;
+}
+.card{
+  position: relative;
+  margin: 0 230px;  
+}
+.card1{
+  margin-bottom: 30px;
+  width: 200px;
+  height: 300px;
+}
+.card img{
+  width: 200px;
+  height: 210px;
+}
+.card2 img{
+  width: 210px;
+  height: 280px;  
+}
+.card-body{
+  margin: 0;
+  padding: 0;
+}
+.card3{
+  width: 870px;
+  height: 430px;
+}
+.card3 img{
+  width: 10%;
+  height: 10%;
+}
+.putGlass1{
+  position: absolute;
+  top: 55px;
+  left: 48px;
+  
+}
+.card .putGlass1{
+  width: 52%;
+  height: 12%;
+}
+.btn{
+  position: relative;
+  top: 50px;
+  right: 100px;
+}
+.putGlass2{
+  position: absolute;
+  top: 75px;
+  left: 51px;
+  
+}
+.card .putGlass2{
+  width: 65%;
+  height: 15%;
+}
